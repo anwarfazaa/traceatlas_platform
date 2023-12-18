@@ -10,3 +10,6 @@ and servers without having to login to servers. This project also will be focusi
 to ensure developers have the best visibility during tests.
 
 Go to: <a href="https://github.com/anwarfazaa/traceatlas_scriptainer" target="_blank">TraceAtlas Scriptainer</a>
+
+18-12-2023 Update: <br/>
+TraceAtlas is planned to focus on Dev and Test environments. with plans to focus on tracing across Selenium tests & backends for both user experience and data integrity.
