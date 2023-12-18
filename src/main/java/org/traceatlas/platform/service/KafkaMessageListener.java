@@ -6,8 +6,8 @@ import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Service;
 
 
-
-@Service
+// Disabled until implemented
+//@Service
 public class KafkaMessageListener {
 
     @Autowired
